@@ -26,4 +26,4 @@ If these codes are helpful for you, please cite our paper as follows:
       organization={PMLR}
     }
 
-Note that the copyright of the manopt toolbox is reserved by https://pymanopt.org/
+Note that the copyright of the manopt toolbox is reserved by https://pymanopt.org/.
