@@ -1,5 +1,7 @@
 # Non-parametric Online Change Point Detection On Riemannian manifolds
 
+In this repository you can find the codes to reproduce the results of the ICML paper <a href="https://xiuheng-wang.github.io/assets/pdf/wang2024nonparametric.pdf"> Non-parametric Online Change Point Detection On Riemannian manifolds </a>.
+
 Steps:
 
 1. Run main_spd.py to plot Figure 1, Figure 5 (left) and Figure 6 (left);
@@ -27,3 +29,16 @@ If these codes are helpful for you, please cite our paper as follows:
     }
 
 Note that the copyright of the manopt toolbox is reserved by https://pymanopt.org/.
+
+**Requirements**
+```
+pymanopt==2.0.1
+numpy==1.22.4
+matplotlib==3.4.3
+tqdm==4.62.3
+seaborn==0.11.2
+scikit-learn==0.24.2
+scipy==1.7.1
+sphfile==1.0.3
+torch==1.10.0
+```
