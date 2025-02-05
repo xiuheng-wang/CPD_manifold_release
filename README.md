@@ -1,6 +1,6 @@
 # Non-parametric Online Change Point Detection On Riemannian manifolds
 
-In this repository you can find the codes to reproduce the results of the ICML paper <a href="https://xiuheng-wang.github.io/assets/pdf/wang2024nonparametric.pdf">Non-parametric Online Change Point Detection On Riemannian manifolds</a>.
+In this repository, you can find the codes to reproduce the results of the ICML paper <a href="https://xiuheng-wang.github.io/assets/pdf/wang2024nonparametric.pdf">Non-parametric Online Change Point Detection On Riemannian manifolds</a>.
 
 Steps:
 
@@ -16,7 +16,7 @@ Steps:
 
 6. Run main_adapt_thres.py to plot Figure 9.
 
-For any questions, feel free to email us at xiuheng.wang@oca.eu or raborsoi@gmail.com.
+For any questions, feel free to email us at dr.xiuheng.wang@gmail.com or raborsoi@gmail.com.
 
 If these codes are helpful for you, please cite our paper as follows:
 
