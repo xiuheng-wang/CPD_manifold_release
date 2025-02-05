@@ -8,7 +8,7 @@ Steps:
 
 2. Run main_grassmann.py to plot Figure 2, Figure 5 (right) and Figure 6 (right);
 
-3. Download the <a href="https://figshare.com/articles/dataset/TIMIT_zip/5802597">TIMIT</a> and <a href="https://research.qut.edu.au/saivt/databases/qut-noise-databases-and-protocols/">QUT-NOISE</a> database, convert WAV files <a href="https://stackoverflow.com/questions/5120555/how-can-i-convert-a-wav-from-stereo-to-mono-in-python">from stereo to mono</a>, and run main_vad.py to plot Figure 3;
+3. Download the <a href="https://figshare.com/articles/dataset/TIMIT_zip/5802597">TIMIT</a> and <a href="https://research.qut.edu.au/saivt/databases/qut-noise-databases-and-protocols/">QUT-NOISE_STREET</a> database, convert WAV files <a href="https://stackoverflow.com/questions/5120555/how-can-i-convert-a-wav-from-stereo-to-mono-in-python">from stereo to mono</a> in QUT-NOISE, and run main_vad.py to plot Figure 3;
 
 4. Download the <a href="https://data.vision.ee.ethz.ch/zzhiwu/ManifoldNetData/SPDData/HDM05_SPDData.zip">HDM05</a> SPD data, and run main_sar.py to plot Figure 4 and Figure 7;
 
