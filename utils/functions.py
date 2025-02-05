@@ -46,7 +46,7 @@ def generate_random_mtx_normal(M, U, V):
 
 def import_vad_data(root_path, nb_change, length_noise, length_speech, SNR_convex_coeff, nperseg, sample_factor, no_show):
     fs=16000
-    noise_paths = glob.glob(root_path + 'QUT-NOISE\\qutnoisestreet\\**\\*.wav', recursive=True)
+    noise_paths = glob.glob(root_path + 'QUT-NOISE\\**\\*.wav', recursive=True)
     speech_paths = glob.glob(root_path + 'TIMIT\\**\\*.WAV', recursive=True)
 
     X = []
